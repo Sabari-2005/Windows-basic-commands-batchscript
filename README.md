@@ -9,7 +9,7 @@ To execute Windows basic commands and batch scripting
 ### Step 1:
 
 Navigate to any Windows environment installed on the system or installed inside a virtual environment like virtual box/vmware 
-
+ 
 ### Step 2:
 
 Write the Windows commands / batch file
